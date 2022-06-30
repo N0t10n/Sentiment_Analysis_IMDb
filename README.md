@@ -1,4 +1,4 @@
-### IBM Sentiment Analysis
+### IBM Comment Sentiment Analysis
 
 ![image](http://www.iprospect.com/~/media/Local/Canada/Our%20blog/Article%20Covers/sentiment-analysis-tools-1400.jpg)
 
