@@ -1,4 +1,4 @@
-### IBM Comment Sentiment Analysis
+# IBM Comment Sentiment Analysis
 
 ![image](http://www.iprospect.com/~/media/Local/Canada/Our%20blog/Article%20Covers/sentiment-analysis-tools-1400.jpg)
 
@@ -8,7 +8,7 @@ It's a personal project to practice the acomplishment of the NLP project structu
 
 ---
 
-# Development
+### Development
 
 The aim of the project is to predict negative and positive comments, so is used a classification algorithm for a binary output: 0 genative, and 1 positive.
 
