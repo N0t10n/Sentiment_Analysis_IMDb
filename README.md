@@ -1,8 +1,8 @@
-# IBM Comment Sentiment Analysis
+# IMDb Comment Sentiment Analysis
 
 ![image](http://www.iprospect.com/~/media/Local/Canada/Our%20blog/Article%20Covers/sentiment-analysis-tools-1400.jpg)
 
-## A NLP project to classify comment sentiments from the IBM web page.
+## A NLP project to classify comment sentiments from the IMDb web page.
 
 It's a personal project to practice the acomplishment of the NLP project structures using libraries like **pandas**, **regex**, **nlt**, **matplotlib**, **seaborn** for data manipulation and visualization. Regarding to Machine Learning, **sklearn**.
 
