@@ -27,7 +27,7 @@ Both train and test got the same amount.
 
 ![image](img/2022-06-30_17-39.png)
 
-Then the last step was to train two models, **Logistic Regression**, and **Support Vector Machine**, appliying **CountVectorizer** with this parameters.
+Then the last step was to train two models, **Logistic Regression**, and **Support Vector Machine**, applying **CountVectorizer** with this parameters.
 
 ```
 
